@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>11.0.1352.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <MSIFileName></MSIFileName>
+    <MSIOptions></MSIOptions>
+  </Options>
+  <StartMenu>
+    <Folder></Folder>
+    <Items/>
+  </StartMenu>
+  <Info>
+    <Version URL="">2.0</Version>
+    <Name URL="">Lisu Unicode</Name>
+    <Copyright URL="">© Lwin Moe (License: MIT)</Copyright>
+    <Author URL="">Lwin Moe</Author>
+    <WebSite URL="http://lwinmoe.org">http://lwinmoe.org</WebSite>
+  </Info>
+  <Files>
+    <File>
+      <Name>lisu.kmx</Name>
+      <Description>Keyboard Lisu Unicode</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>Lisu Unicode</Name>
+      <ID>lisu</ID>
+      <Version>2.0</Version>
+      <Languages>
+        <Language ID="lis-Lisu">Lisu</Language>
+      </Languages>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>
