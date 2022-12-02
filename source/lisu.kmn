@@ -4,16 +4,19 @@ c Distributable under MIT license.
 c  
 c LM    1.00    2013-10-22     Initial version
 c       2.00    2019-03-23
-VERSION 9.0
+
+store(&Version) "9.0"
 
 store(&BITMAP) 'lisu.bmp'
 
-store(&TARGETS) 'windows linux'
+store(&TARGETS) 'any'
 store(&NAME) 'Lisu Unicode'
 store(&ETHNOLOGUECODE) 'lis'
 store(&MESSAGE) 'Lisu Unicode Keyboard'
 store(&KEYBOARDVERSION) '2.0'
 store(&COPYRIGHT) '© Lwin Moe (License: MIT)'
+
+store(&VISUALKEYBOARD) 'lisu.kvks'
 
 begin Unicode > use(Main)
 

@@ -1,10 +1,11 @@
 # Lisu Unicode Keyman keyboard
 
+Compiled Keyman files in are ``build`` directory. ``.kmp`` file is what needs to be installed.
+
 ## Keyman on Ubuntu
 
 [Keyman Linux]
 
-    $ sudo add-apt-repository ppa:keymanapp/keyman
     $ sudo apt-get update
     $ sudo apt-get upgrade
     $ sudo apt-get install keyman onboard
