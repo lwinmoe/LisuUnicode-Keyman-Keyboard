@@ -19,7 +19,7 @@ Download [Keyman Desktop](https://keyman.com/desktop/download.php) without any k
 
 ## How to install the Lisu keyboard layout
 
-For [windows](https://help.keyman.com/products/desktop/10.0/docs/start_download-install_keyboard.php).
+For [windows](https://help.keyman.com/products/windows/current-version/start/download-and-install-keyboard).
 
 For Ubuntu Linux:
 
